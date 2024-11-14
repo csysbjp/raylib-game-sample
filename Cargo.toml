@@ -5,4 +5,4 @@ edition = "2021"
 
 [dependencies]
 rand = "0.8.5"
-raylib = { version = "5.0.2", features = ["wayland"] }
+raylib = { version = "5.0.2", features = ["opengl_33"] }
